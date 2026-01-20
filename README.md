@@ -1,42 +1,36 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sarhan Ali Ansari
+<div align="center">
 
-<p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D1FF&center=false&vCenter=false&width=500&lines=Aspiring+Full+Stack+Developer+🚀;Computer+Science+Student+🎓;Building+the+Future+with+Code+✨" alt="Typing SVG" />
-</p>
+# 👋 I'm Mr Sarhan Ali Ansari
+### 🚀 Aspiring Full Stack Developer | MERN Stack Enthusiast
 
----
-
-### 🚀 About Me
-- 🎓 **Currently:** Pursuing my degree in Computer Science.
-- 🎯 **Goal:** Mastering the **MERN Stack** to become a Pro Full Stack Developer.
-- 🔭 **Working on:** Improving my Frontend and Logic building skills.
-- ⚡ **Passion:** I love turning complex ideas into simple, beautiful code.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Apps;Problem+Solver;Future+Full+Stack+Developer" alt="Typing SVG" />
 
 ---
 
-### 🛠️ My Growing Tech Stack
-<p align="left">
+### 🛠️ Tech Stack
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,vscode" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📩 Let's Connect
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codewithsarhan&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D1FF" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsarhan&layout=compact&theme=tokyonight&hide_border=true&title_color=00D1FF" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codewithsarhan&theme=tokyonight&area=true&hide_border=true" />
+  <a href="https://wa.me/923710024526" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:sarhanaliansari7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-<a href="mailto:sarhanaliansari@email.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/yourprofile" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> **Turning Ideas Into Reality with Code** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+</div>
